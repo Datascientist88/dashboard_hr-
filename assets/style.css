@@ -1,0 +1,27 @@
+
+.card{ display: inline-block;
+  width: 200px;
+  height:90px;
+  margin-right: 20px;
+  margin-top: 10px;
+  background-color: #000;
+  border: 1px solid;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  text-align: center;
+  color:aqua;
+  align-items: center;
+  justify-content: center;
+ 
+
+
+
+}
+.card:hover{
+ transform: translateY(-10px);
+ box-shadow: 3px 3px 5px rgba(0,0,0,0.5);}
+ P {
+   text-align: center;
+   font-size: large;
+ }
+ 
